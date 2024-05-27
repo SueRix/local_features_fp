@@ -1,0 +1,16 @@
+**/*.pyc
+*.pyo
+.idea/
+/API_Gateway/.idea
+/FP_Fixed/.idea
+/FP_Fixed/db.sqlite3
+/FP_Fixed/__pycache__
+/API_Gateway/__pycache__
+/FP_Fixed/venv
+/data
+__pycache__/
+db.sqlite3
+**/venv/
+**/.idea/
+
+#TODO: FIX .gitignore
